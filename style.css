@@ -75,7 +75,7 @@ body {
 }
 
 .left-controls {
-  padding: 0.7rem 1rem;
+  padding: 0.5rem 0.6rem;
   border-top: 2px solid var(--accent);
   border-left: 2px solid var(--accent);
   border-radius: 4rem;
@@ -85,7 +85,7 @@ body {
 .logo {
   flex: 1;
   font-family: 'qinferly', sans-serif;
-  font-size: 1.8rem;
+  font-size: 1.2rem;
   font-weight: 700;
   color: var(--text-color);
   border-bottom: 2px solid var(--accent);
@@ -194,6 +194,10 @@ nav ul li a:hover {
     justify-content: space-between;
     max-width: 900px;
     margin: 0 auto;
+  }
+
+  .logo {
+    font-size: 1.8rem;
   }
 
   .hamburger {
