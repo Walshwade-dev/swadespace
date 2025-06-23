@@ -91,7 +91,7 @@ body {
   border-bottom: 2px solid var(--accent);
   border-right: 2px solid var(--accent);
   border-radius: 4rem;
-  padding: 0 0.7rem;
+  padding: 0.5rem 0.7rem;
   text-align: center;
 }
 
